@@ -15,8 +15,13 @@ The main libraries used in this project are:
 * pandas: A Python library for data manipulation and analysis. We chose this library for its powerful data analysis tools and ability to handle large datasets efficiently.
 
 # Installation and running the project
-To install and run this project on your local machine, you will need to have Python 3.10 installed as well as the yfinance and pandas libraries. You can install these dependencies using pip: pip install jupyter yfinance pandas
-Once you have installed the required dependencies, you can clone this repository to your local machine: git clone https://github.com/aarong99/yf-playground.git Navigate to the directory where you cloned the repo and launch the notebook: cd <repository> jupyter notebook This will launch the Jupyter Notebook environment in your web browser. From there, you can open the notebook file and run each cell sequentially to retrieve and analyze stock data
+To install and run this project on your local machine, you will need to have Python 3.10 installed as well as the yfinance and pandas libraries. You can install these dependencies using pip:
+  pip install jupyter yfinance pandas
+Once you have installed the required dependencies, you can clone this repository to your local machine:
+  git clone https://github.com/aarong99/yf-playground.git
+Navigate to the directory where you cloned the repo and launch the notebook:
+  cd <repository> jupyter notebook
+This will launch the Jupyter Notebook environment in your web browser. From there, you can open the notebook file and run each cell sequentially to retrieve and analyze stock data.
 
 To use this Jupyter Notebook project, users can open the notebook in their Jupyter environment after installing the required dependencies. To run the notebook, simply open it in Jupyter and run each cell sequentially. Users can modify the code and parameters as needed to analyze different stocks or timeframes. The notebook also includes markdown cells with explanations and instructions.
 
